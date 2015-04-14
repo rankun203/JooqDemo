@@ -24,3 +24,4 @@ Following to this guide: [Using jOOQ With Spring](http://www.petrikainulainen.ne
 1. [Better Java](https://www.seancassidy.me/better-java.html)
 2. [Java8 Features](http://www.java8.org/)
 3. [Official Docs](http://www.jooq.org/doc/3.5/manual-single-page)
+4. [Java For Everything](http://www.teamten.com/lawrence/writings/java-for-everything.html)
